@@ -1,0 +1,10 @@
+{
+  "emmet.includeLanguages": {
+    "javascript": "javascriptreact",
+    "html": "html",
+    "typescript": "typescriptreact",
+    // "emmet.showSuggestionsAsSnippets": true,
+    // "editor.snippetSuggestions": "top"
+  },
+  "emmet.preferences": {}
+}
